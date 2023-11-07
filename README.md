@@ -1,13 +1,13 @@
 # Hi there! 👋 I'm Marley Semende
 
-I'm currently diving into both front-end and backend development, at Hack Your Future.
+I'm currently diving into both front-end and backend development, at Hack Your Future Netherlands.
 
 🌱 I’m currently learning various technologies including:
 
 ### Front-end:
-- JavaScript
 - HTML
 - CSS
+- JavaScript
 - React.js
 - Responsive Design Principles
 
