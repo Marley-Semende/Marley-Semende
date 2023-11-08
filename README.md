@@ -1,4 +1,4 @@
-# Hi there! 👋🏿 I'm Marley Semende
+# Hi there! 👋🏿 I'm Marley.
 
 I'm currently diving into both front-end and backend development, at Hack Your Future, NL.
 
