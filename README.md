@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Marley Semende
 
-I'm currently diving into both front-end and backend development, at Hack Your Future Netherlands.
+I'm currently diving into both front-end and backend development, at Hack Your Future, Amsterdam,NL.
 
-🌱 I’m currently learning various technologies including:
+🌱 I’m currently learning Front-end and Back-end technologies including:
 
 ### Front-end:
 - HTML
@@ -15,13 +15,17 @@ I'm currently diving into both front-end and backend development, at Hack Your F
 - Node.js
 - Express.js
 - RESTful APIs
-- Database Integration with MongoDB
+- MYSQL
+- MongoDB
 
 📫 How to reach me: [marley.semende@gmail.com].
 
 ### Some of my interests:
-- Full-stack Development
-- JavaScript
-- Web Design
+- Full-stack Web Development
+- JavaScript (ES6+)
+- Front-end Frameworks (React, Vue.js)
+- Back-end Technologies (Node.js, Express)
+- Functional Programming in JavaScript
+- Testing Frameworks (Jest)
 
 Feel free to check out my repositories and connect with me!
