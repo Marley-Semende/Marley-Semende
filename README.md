@@ -1,2 +1,2 @@
-# Hi there! 👋🏿.
+# Hi there! 👋🏿
 I'm Marley, I'm currently delving into front-end and back-end development at Hack Your Future, Netherlands. I'm learning HTML, CSS, JavaScript, React.js, and more on the front-end, and Node.js, Express.js, RESTful APIs, and databases like MySQL and MongoDB on the back-end. Reach me at [marley.semende@gmail.com]. My interests include full-stack development, JavaScript (ES6+), React, Vue.js, Node.js, Express, functional programming, and testing with framworks like Jest. Check out my repos and feel free to connect with me!
