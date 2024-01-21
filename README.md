@@ -1,2 +1,5 @@
+![Marley-Semende's Stats](https://github-readme-stats.vercel.app/api?username=Marley-Semende&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+![Marley-Semende's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marley-Semende&theme=outrun&hide_border=false)
+![Marley-Semende's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marley-Semende&theme=outrun&show_icons=true&hide_border=false&layout=compact)
 # Hi there! 👋🏿
 I'm Marley, I'm currently delving into front-end and back-end development at Hack Your Future, Netherlands. I'm learning HTML, CSS, JavaScript, React.js, and more on the front-end, and Node.js, Express.js, RESTful APIs, and databases like MySQL and MongoDB on the back-end. Reach me at [marley.semende@gmail.com]. My interests include full-stack development, JavaScript (ES6+), React, Vue.js, Node.js, Express, functional programming, and testing with framworks like Jest. Check out my repos and feel free to connect with me!
