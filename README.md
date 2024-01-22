@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">I'm actively learning and building my tech stack  with :</h1>
+<h1 align="center"><code>I'm actively learning and building my tech stack  with :</code></h1>
 
 ###
 
