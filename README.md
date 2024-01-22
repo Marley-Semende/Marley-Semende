@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm an Activist turned Developer🚀, currently diving into both Frontend and Backend Development. I'm currently enrolled in a 7 month Fullstack Dev Bootcamp at <span style="color: #39FF14; text-transform: uppercase;">Hack Your Future</span>, Netherlands. I regularly post my solutions to coding challenges and contribute constructive feedback on Frontend Mentor. <br>View my profile here: <a href="https://www.frontendmentor.io/profile/Marley-Semende" style="color:blue; text-decoration:underline;">Marley Semende</a>. <br>And feel free to check out my repositories and connect with me at: <a href="mailto:marley.semende@gmail.com" style="color:blue; text-decoration:underline;">marley.semende@gmail.com</a>.</p>
+<p align="left">I'm an Activist turned Developer🚀. I'm currently diving into both Frontend and Backend Development. I'm currently enrolled in a 7 month Fullstack Dev Bootcamp at <span style="color: #39FF14; text-transform: uppercase;">Hack Your Future</span>, Netherlands. I regularly post my solutions to coding challenges and contribute constructive feedback on Frontend Mentor Community. <br>View my profile here: <a href="https://www.frontendmentor.io/profile/Marley-Semende" style="color:blue; text-decoration:underline;">Marley Semende</a>. <br>And feel free to check out my repositories and connect with me at: <a href="mailto:marley.semende@gmail.com" style="color:blue; text-decoration:underline;">marley.semende@gmail.com</a>.</p>
 
 ###
 
