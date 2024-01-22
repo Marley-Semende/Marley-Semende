@@ -1,4 +1,4 @@
-<h2 align="center">Hello world 👋🏿!! I'm Marley and I'm passionate about Frontend 💻.</h2>
+<h2 align="center"><code>Hello world 👋🏿!! I'm Marley and I'm passionate about Frontend 💻.</code></h2>
 
 ###
 
