@@ -19,6 +19,7 @@
 ###
 
 <h1 align="center"><code>I'm actively learning and building my tech stack  with :</code></h1>
+<h2>HTML, CSS, SaSS, JavaScript, Tailwind, React.js, Node.js, MySQL and MongoDB</h2>
 
 ###
 
