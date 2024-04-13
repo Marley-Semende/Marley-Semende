@@ -9,7 +9,7 @@
 
  <p align="left" style="font-size: 18px" style="font-family: Proza+Libre">I'm an Activist turned Software Developer 🚀. I'm currently diving into both Frontend and Backend technologies. I'm currently enrolled in a Fullstack Bootcamp at <span style="color: #39FF14; text-transform: uppercase;">Hack Your Future</span>, Netherlands. I regularly post my solutions to coding challenges and contribute constructive coding feedback on the Frontend Mentor Community Platform and Edabit. <br>View my profiles heres: <br><a href="https://www.frontendmentor.io/profile/Marley-Semende" style="color:light-blue; text-decoration:underline;">Frontend Mentor Profile</a> <br><a href="https://edabit.com/user/bGHigu9FuYZoxJuwW" style="color:light-blue; text-decoration:underline;">Edabit Profile</a>. <br>
   🎨 I have hobbies outside of tech, I'm an amatuer Dj 🎹 & content creator. <br><br>
- Feel free to check out my repositories and connect with me</p>
+ Feel free to check out my repositories and connect with me:</p>
  
 
  
@@ -46,5 +46,13 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,figma" />
     <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,vscode,github,git" /><br>
 </div>
+
+<br />
+<hr />
+
+<h4 style="" align="center">🌱 I'm currently learning TypeScript</h4>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=typescript" />
+  </div>
 
 <br/>
