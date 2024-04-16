@@ -1,7 +1,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Marley-Semende&icon=0&color=2)](https://visitcount.itsvg.in)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Proza+Libre&color=E7F71F&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+There!+👍🏿;+I'm+Marley+Sande!;+I+love+writing+Frontend+code+💻" /> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Proza+Libre&color=E7F71F&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+Dev Community!+👋🏿;+I'm+Marley+Sande!;+I+love+writing+Frontend+code+💻" /> 
 </h1> 
 
 <div align="center">
