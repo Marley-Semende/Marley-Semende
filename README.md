@@ -11,7 +11,7 @@
  <p align="left" style="font-size: 18px" style="font-family: Proza+Libre">I'm an Activist turned Software Developer 🚀. I'm currently diving into both Frontend and Backend technologies. I'm currently enrolled in a Fullstack Bootcamp at <span style="color: #39FF14; text-transform: uppercase;">Hack Your Future</span>, Netherlands. I regularly post my solutions to coding challenges and contribute constructive coding feedback on the Frontend Mentor Community Platform and Edabit. <br>View my profiles here: <br><a href="https://www.frontendmentor.io/profile/Marley-Semende" style="color:light-blue; text-decoration:underline;">Frontend Mentor Profile</a> <br><a href="https://edabit.com/user/bGHigu9FuYZoxJuwW" style="color:light-blue; text-decoration:underline;">Edabit Profile</a>. <br>
  
 
-🔭 I’m currently working on React.js/TypeScript apps<br>🌱 I’m currently learning Advanced TypeScript<br>💬 Ask me about Javascript, React.js and TypeScript<br>⚡ Fun fact: My code runs on caffeine and lo-fi beats 🎧<br> 🎨 I have hobbies outside of tech, I'm an amatuer Dj 🎹 & content creator. <br> 📧 Feel free to check out my repos and connect with me: <br>
+🔭 I’m currently working on React.js/TypeScript apps<br>🌱 I’m currently learning Advanced TypeScript<br>💬 Ask me about Javascript, React.js, TypeScript, MongoDb and Node.js<br>⚡ Fun fact: My code runs on caffeine and lo-fi beats 🎧<br> 🎨 I have hobbies outside of tech, I'm an amatuer Dj 🎹 & content creator. <br> 📧 Feel free to check out my repos and connect with me: <br>
  
 
  
