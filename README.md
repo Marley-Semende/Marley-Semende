@@ -3,9 +3,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Proza+Libre&color=E7F71F&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+Dev+Community!+👋🏿;+I'm+Marley+Sande👨🏿‍💻;" /> 
 </h1> 
-
+<br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marley-semende&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marley-Semende&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
  <p align="left" style="font-size: 18px" style="font-family: Proza+Libre">I'm an Activist turned Software Developer 🚀. I work with both Frontend and Backend technologies. I'm currently enrolled in a Fullstack Bootcamp at <span style="color: #39FF14; text-transform: uppercase;">Hack Your Future</span>, Netherlands. I regularly post my solutions to coding challenges and contribute constructive coding feedback on the Frontend Mentor Community Platform and Edabit. <br>View my profiles here: <br><a href="https://www.frontendmentor.io/profile/Marley-Semende" style="color:light-blue; text-decoration:underline;">Frontend Mentor Profile</a> <br><a href="https://edabit.com/user/bGHigu9FuYZoxJuwW" style="color:light-blue; text-decoration:underline;">Edabit Profile</a>. <br>
