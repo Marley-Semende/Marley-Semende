@@ -4,9 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Proza+Libre&color=E7F71F&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hello+Dev+Community!+👋🏿;+I'm+Marley+Sande👨🏿‍💻;" /> 
 </h1> 
 <br>
+
 <div align="center">
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marley-Semende&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marley-Semende&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Top Languages" />
+
 </div>
+
 
  <p align="left" style="font-size: 18px" style="font-family: Proza+Libre">I'm an Activist turned Software Developer 🚀. I work with both Frontend and Backend technologies. I'm currently enrolled in a Fullstack Bootcamp at <span style="color: #39FF14; text-transform: uppercase;">Hack Your Future</span>, Netherlands. I regularly post my solutions to coding challenges and contribute constructive coding feedback on the Frontend Mentor Community Platform and Edabit. <br>View my profiles here: <br><a href="https://www.frontendmentor.io/profile/Marley-Semende" style="color:light-blue; text-decoration:underline;">Frontend Mentor Profile</a> <br><a href="https://edabit.com/user/bGHigu9FuYZoxJuwW" style="color:light-blue; text-decoration:underline;">Edabit Profile</a>. <br>
  
@@ -50,7 +53,10 @@
 ### ✍️ Favorite Dev Quote:
 <div align="center">
     
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 </div>
+
+  ## 💰 You can support me by buying me a coffee
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/@marley.sande) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/marley.semende@gmail.com) 
 
