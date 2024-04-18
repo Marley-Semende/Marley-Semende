@@ -9,6 +9,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marley-Semende&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Top Languages" />
 
 </div>
+<br>
 
 
  <p align="left" style="font-size: 18px" style="font-family: Proza+Libre">I'm an Activist turned Software Developer 🚀. I work with both Frontend and Backend technologies. I'm currently enrolled in a Fullstack Bootcamp at <span style="color: #39FF14; text-transform: uppercase;">Hack Your Future</span>, Netherlands. I regularly post my solutions to coding challenges and contribute constructive coding feedback on the Frontend Mentor Community Platform and Edabit. <br>View my profiles here: <br><a href="https://www.frontendmentor.io/profile/Marley-Semende" style="color:light-blue; text-decoration:underline;">Frontend Mentor Profile</a> <br><a href="https://edabit.com/user/bGHigu9FuYZoxJuwW" style="color:light-blue; text-decoration:underline;">Edabit Profile</a>. <br>
