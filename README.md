@@ -6,11 +6,15 @@
 <br>
 
 <h3>Checkout My Recent Projects:</h3>
-<a href="https://marley-advice-app.netlify.app/">Advice Generator App</a>
-<a href="https://marley-marl-age-calculator-app.netlify.app/">Age Calculator App</a>
-<a href="https://marley-notifications-page.netlify.app/">Notifications Page</a>
-<a href="https://loopstudios-marley-marl.netlify.app/">LoopStudios landing page</a>
+<a href="https://marley-marl-movie-app.netlify.app/popular">Movie App</a>
+<a href="https://marley-marl-age-calculator-app.netlify.app/">Age Calculator App </a>
+<a href="https://marley-advice-app.netlify.app/">Advice Generator App </a>
 <a href="https://marley-marl-interactive-faq-accordion.netlify.app/">Interactive FAQ accordion</a>
+<a href="https://loopstudios-marley-marl.netlify.app/">LoopStudios landing page</a>
+<a href="https://marley-marl-pricing-component.netlify.app/">Pricing component with toggle </a>
+<a href="https://marley-notifications-page.netlify.app/">Notifications Page </a>
+<a href="https://marley-marl-interactive-rating-compon.netlify.app/">Interactive rating component</a>
+<a href="https://marley-marl-social-proof-section.netlify.app//">Social Proof Component</a>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marley-Semende&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Top Languages" />
