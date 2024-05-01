@@ -6,7 +6,7 @@
 <br>
 
 <h3>Checkout My Recent Projects:</h3>
-<a href="https://marley-marl-movie-app.netlify.app/popular">Movie App</a>
+<a href="https://marley-marl-movie-app.netlify.app">Movie App</a>
 <a href="https://marley-marl-age-calculator-app.netlify.app/">Age Calculator App </a>
 <a href="https://marley-advice-app.netlify.app/">Advice Generator App </a>
 <a href="https://marley-marl-interactive-faq-accordion.netlify.app/">Interactive FAQ accordion</a>
