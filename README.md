@@ -5,6 +5,13 @@
 </h1> 
 <br>
 
+<h3>Checkout My Recent Projects:</h3>
+<a href="https://marley-advice-app.netlify.app/">Advice Generator App</a>
+<a href="https://marley-marl-age-calculator-app.netlify.app/">Age Calculator App</a>
+<a href="https://marley-notifications-page.netlify.app/">Notifications Page</a>
+<a href="https://loopstudios-marley-marl.netlify.app/">LoopStudios landing page</a>
+<a href="https://marley-marl-interactive-faq-accordion.netlify.app/">Interactive FAQ accordion</a>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marley-Semende&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="GitHub Top Languages" />
 
