@@ -5,7 +5,7 @@
 </h1> 
 <br>
 
-<h2  align="center">Checkout My Recent Projects:</h2>
+<h2  align="center" style="text-decoration: none;">Checkout My Recent Projects:</h2>
 <a href="https://marley-marl-movie-app.netlify.app">Movie App</a> <br>
 <a href="https://marley-marl-age-calculator-app.netlify.app/">Age Calculator App </a><br>
 <a href="https://marley-advice-app.netlify.app/" >Advice Generator App </a><br>
